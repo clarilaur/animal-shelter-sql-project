@@ -1,0 +1,2 @@
+INSERT INTO Dogs (name, breed, age, intake_date, status)
+VALUES ('Bella', 'Australian Shepherd', 3, '2025-01-10', 'Available');
