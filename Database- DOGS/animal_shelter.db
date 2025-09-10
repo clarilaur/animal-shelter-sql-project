@@ -1,0 +1,9 @@
+CREATE TABLE "Dogs" (
+	"dog_id"	INTEGER NOT NULL,
+	"name"	TEXT NOT NULL,
+	"breed"	TEXT,
+	"age"	INTEGER,
+	"intake_date"	TEXT,
+	"status"	TEXT,
+	PRIMARY KEY("dog_id" AUTOINCREMENT)
+);
