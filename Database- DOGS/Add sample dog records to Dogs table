@@ -1,0 +1,6 @@
+INSERT INTO Dogs (name, breed, age, intake_date, status)
+VALUES 
+('Rio', 'Australian Shepherd', 3, '2021-06-06', 'Adopted'),
+('Pippy', 'Australian Shepherd', 5, '2023-04-23', 'Adopted'),
+('Dilly', 'Cane Corso', 2, '2025-02-15', 'Adopted'),
+('Milo', 'Beagle', 4, '2025-03-01', 'Available');
