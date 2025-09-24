@@ -1,0 +1,4 @@
+INSERT INTO Adopters (name, phone, email)
+VALUES
+('Sarah Johnson', '555-1234', 'sarah@example.com'),
+('James Lee', '555-5678', 'james@example.com');
